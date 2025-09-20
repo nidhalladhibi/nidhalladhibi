@@ -36,7 +36,19 @@
 ## 📌 Projets en vedette  
 
 - [🏠 **IMMOBILIER**](https://github.com/nidhalladhibi/IMMOBILIER) – Application de gestion immobilière full stack  
+
 - [📊 **Trading Platform**](https://github.com/nidhalladhibi/Trading-App) – Backtester stratégie de trading avec graphiques  
+
+- [🎓 **Learn Anything**](https://github.com/nidhalladhibi/learn-anything) –  
+  Une école en ligne multi-domaines développée avec **Django**.  
+  - Création de compte et gestion de profil  
+  - Suivi des domaines d’étude préférés  
+  - Accès à des cours en ligne (PDF)  
+  - Actualités récentes intégrées  
+  - Interface claire avec **tableau de bord interactif** et **sidebar** pour profil et navigation  
+
+- [🤝 **VabeneHelp**](https://github.com/nidhalladhibi/vabenehelp) –  
+  Une application qui connecte directement les **professionnels** aux **clients** en fonction du **domaine** et de la **localisation**.
 
 ---
 
@@ -54,5 +66,3 @@
 
 ---
 
-## ✨ Citation du jour  
-> *"Le code est comme l’humour. Quand il faut l’expliquer, c’est qu’il n’est pas bon."* – Cory House
