@@ -36,8 +36,7 @@
 ## 📌 Projets en vedette  
 
 - [🏠 **IMMOBILIER**](https://github.com/nidhalladhibi/IMMOBILIER) – Application de gestion immobilière full stack  
-
-- [📊 **Trading Platform**](https://github.com/nidhalladhibi/Trading-App) – Backtester stratégie de trading avec graphiques  
+  
 
 - [🎓 **Learn Anything**](https://github.com/nidhalladhibi/learn-anything) –  
   Une école en ligne multi-domaines développée avec **Django**.  
