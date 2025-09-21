@@ -1,5 +1,6 @@
-<!-- Bannière (tu peux créer une image perso sur Canva et remplacer le lien) -->
-![Banner](https://i.ibb.co/5Txxk1N/github-banner.png)
+<!-- Bannière perso -->
+![Banner](https://i.postimg.cc/ZCjWnMFm/banner.png)
+
 
 # 👋 Salut, je suis Nidhal  
 
