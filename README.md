@@ -48,7 +48,11 @@
 
 - [🤝 **VabeneHelp**](https://github.com/nidhalladhibi/vabenehelp) –  
   Une application qui connecte directement les **professionnels** aux **clients** en fonction du **domaine** et de la **localisation**.
-
+- [📝 **To-Do App**](https://github.com/nidhalladhibi/todo-app) –  
+  Une application **React** simple de gestion de tâches (To-Do List) qui démontre l’utilisation de l’**état** et la gestion des composants :  
+  - Ajouter, modifier, supprimer et marquer des tâches comme terminées ✅  
+  - Validation de formulaire pour l’ajout/modification  
+  - Persistance des données avec le **localStorage** du navigateur
 ---
 
 ## 🌍 Portfolio & Réseaux  
