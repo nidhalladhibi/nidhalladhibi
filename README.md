@@ -1,7 +1,6 @@
 <!-- Bannière perso -->
 ![Banner](https://i.postimg.cc/ZCjWnMFm/banner.png)
 
-
 # 👋 Salut, je suis Nidhal  
 
 💻 **Full Stack Web Developer** | 🚀 Passionné par le **trading** et la **blockchain**  
@@ -20,12 +19,14 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 ### 🔧 Outils & Autres  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -36,30 +37,36 @@ https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&log
 
 ## 📌 Projets en vedette  
 
-- [🏠 **IMMOBILIER**](https://github.com/nidhalladhibi/IMMOBILIER) – Application de gestion immobilière full stack  
-  
+### 🏠 **IMMOBILIER**
+[![Lien GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-flat&logo=github)](https://github.com/nidhalladhibi/IMMOBILIER)
+Application de gestion immobilière full stack  
 
-- [🎓 **Learn Anything**](https://github.com/nidhalladhibi/learn-anything) –  
-  Une école en ligne multi-domaines développée avec **Django**.  
-  - Création de compte et gestion de profil  
-  - Suivi des domaines d’étude préférés  
-  - Accès à des cours en ligne (PDF)  
-  - Actualités récentes intégrées  
-  - Interface claire avec **tableau de bord interactif** et **sidebar** pour profil et navigation  
+### 🎓 **Learn Anything**
+[![Lien GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-flat&logo=github)](https://github.com/nidhalladhibi/learn-anything)
+Une école en ligne multi-domaines développée avec **Django** :
+- Création de compte et gestion de profil
+- Suivi des domaines d'étude préférés
+- Accès à des cours en ligne (PDF)
+- Actualités récentes intégrées
+- Interface claire avec tableau de bord interactif
 
-- [🤝 **VabeneHelp**](https://github.com/nidhalladhibi/vabenehelp) –  
-  Une application qui connecte directement les **professionnels** aux **clients** en fonction du **domaine** et de la **localisation**.
-- [📝 **To-Do App**](https://github.com/nidhalladhibi/todo-app) –  
-  Une application **React** simple de gestion de tâches (To-Do List) qui démontre l’utilisation de l’**état** et la gestion des composants :  
-  - Ajouter, modifier, supprimer et marquer des tâches comme terminées ✅  
-  - Validation de formulaire pour l’ajout/modification  
-  - Persistance des données avec le **localStorage** du navigateur
+### 🤝 **VabeneHelp**
+[![Lien GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-flat&logo=github)](https://github.com/nidhalladhibi/vabenehelp)
+Application qui connecte directement les **professionnels** aux **clients** en fonction du **domaine** et de la **localisation**.
+
+### 📝 **To-Do App**
+[![Lien GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-flat&logo=github)](https://github.com/nidhalladhibi/todo-app)
+Application **React** simple de gestion de tâches :
+- Ajouter, modifier, supprimer et marquer des tâches
+- Validation de formulaire
+- Persistance des données avec **localStorage**
+
 ---
 
-## 🌍 Portfolio & Réseaux  
-🔗 [Portfolio](https://portfolio-b1480.web.app/)  
-💼 [LinkedIn](https://linkedin.com/in/ladhibi-nidhal-2b3827bb/)  
-📧 **nidhal.ladhibi@gmail.com**
+## 🌍 Contact & Réseaux  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-flat&logo=firefox&logoColor=white)](https://portfolio-b1480.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ladhibi-nidhal-2b3827bb/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-flat&logo=gmail&logoColor=white)](mailto:nidhal.ladhibi@gmail.com)
 
 ---
 
@@ -69,4 +76,3 @@ https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&log
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhalladhibi&layout=compact&theme=tokyonight)  
 
 ---
-
