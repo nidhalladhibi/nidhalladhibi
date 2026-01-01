@@ -3,7 +3,7 @@
 
 # 👋 Salut, je suis Nidhal  
 
-💻 **Full Stack Web Developer** | 🚀 Passionné par le **trading** et la **blockchain**  
+💻 **Full Stack Web Developer** | 
 
 ---
 
