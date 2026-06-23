@@ -25,6 +25,7 @@ I build modern web applications, business platforms and scalable digital solutio
 
 🌐 **Freelance Project:**  
 👉 https://vixo-web.web.app/
+https://www.geministore.tn/
 
 ---
 
@@ -58,7 +59,7 @@ https://portfolio-b1480.web.app/
 https://linkedin.com/in/ladhibi-nidhal-2b3827bb/
 
 📧 Email  
-nidhal.ladhibi@gmail.com
+www.nidhal.com@gmail.com
 
 ---
 
